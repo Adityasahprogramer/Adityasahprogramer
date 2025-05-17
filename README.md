@@ -1,4 +1,4 @@
-### Hi there 👋, I’m @Adityasahprogramer
+### Hi there 👋, I’m @Aditya Sah
 
 - 👀 I’m interested in web development, machine learning, and open-source projects.
 - 🌱 I’m currently learning Flask, MySQL and Data Analytics.
